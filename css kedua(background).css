@@ -1,0 +1,129 @@
+body{
+	background-color: grey;
+	background-image: url("pictures/1.jpg");
+	background-repeat: repeat-x
+}
+
+#texk_keimanan{
+	text-align:justify;
+	text-indent: 30px;
+	letter-spacing: 5px;
+	line-height:15px;
+	
+}
+
+h2{
+	text-align: center;
+	text-transform:uppercase;
+	display:inline;
+	
+}
+
+#text_sebab{
+	font-family:semi-condensed;
+	font-weight: 900;
+	font-size: `20px;
+	text-shadow: 5px 10px 8px green;
+}
+
+/*kondisi link biasa*/
+
+
+.kontak{
+	background-color:green;
+}
+
+.menu{
+	background-color:red;
+}
+
+.kriti{
+	background-color:yellow;
+}
+
+.tabel{
+	background-color:pink;
+}
+/*kondisi link*/
+
+
+
+.menu:link{
+	background:green;
+	color:white;
+}
+
+/*kondisi link setelah di taruh*/
+
+
+.kontak:hover{
+	background:purple;
+}
+
+.kriti:hover{
+	background:purple;
+}
+
+.menu:hover{
+	background:yellow;
+}
+
+.tabel:hover{
+	background:blue;
+}
+
+/*text decoration*/
+
+.kontak{
+	display:inline-block;
+	height:50px;
+	width:50px;
+
+}
+
+.kriti{
+	display:inline-block;
+	height:50px;
+	width:50px;
+	
+}
+
+.tabel{
+	display:inline-block;
+	height:50px;
+	width:50px;
+	
+}
+
+.menu{
+	display:inline-block;
+	height:50px;
+	width:50px;
+
+}
+
+
+#text_judul{
+	background:yellow;
+	font-size:30px;
+	width:700px
+}
+
+
+#ngedit_link{
+	margin-right:50px;
+	margin-top:20px;
+	position:fixed;
+}
+
+a{
+	display:inline-block;
+}
+
+
+tabel{
+	float:right;
+	margin-left:15px;
+}
+	
+

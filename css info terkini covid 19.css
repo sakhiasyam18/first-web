@@ -1,0 +1,77 @@
+body{
+	font-family: verdana; times new roman;
+	font-size: 12px;
+}
+
+header, nav, main, aside, footer{
+	border : 1px solid grey; margin: 10px; padding: 5px;
+}
+
+main{
+	float: left;
+	width: 60%;
+}
+	
+aside{
+	float: left;
+	width: 30%;
+}
+	
+footer{
+	clear: both;
+}
+
+#link{
+	height:150px;
+	width:300px;
+	background: blue;
+	border-radius: 20px;
+}
+
+header{
+	background-color:red;
+}
+
+img {
+	width:90px;
+	height:95px;
+	float:left;
+}
+
+h2{
+	text-align: center;
+	text-decoration-color: blue;
+}
+#text berita{
+	font-family: 'Sriracha', cursive;
+}
+#p1{
+	text-indent: 30px;
+	text-align: justify ;
+	font-family: 'Sriracha', cursive;
+}
+#p2{
+	text-indent: 30px;
+	text-align: justify ;
+	font-family: 'Sriracha', cursive;
+}
+#p3{
+	text-indent: 30px;
+	text-align: justify ;
+	font-family: 'Sriracha', cursive;
+}
+#p4{
+	text-indent: 30px;
+	text-align: justify ;
+	font-family: 'Sriracha', cursive;
+}
+#p5{
+	text-indent: 30px;
+	text-align: justify ;
+	font-family: 'Sriracha', cursive;
+}
+#p6{
+	text-indent: 30px;
+	text-align: justify ;
+	font-family: 'Sriracha', cursive;
+}
